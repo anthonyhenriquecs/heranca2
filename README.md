@@ -1,5 +1,6 @@
 # heranca2
 
+
 class Animal:
     def __init__(self, numero_d_patas):
         self.numero_d_patas = numero_d_patas
